@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830234654776",
+    "project_id": "payp-8dad6",
+    "storage_bucket": "payp-8dad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830234654776:android:4c3e0a41ddabe1d4698ecd",
+        "android_client_info": {
+          "package_name": "com.payp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830234654776-4qdqb6peiftg9sgdb9imh6hvgclekm56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "830234654776-168larkcn4euflacq9n16dn54qvjcrdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-YCC2EzKhqTTl_3oiTWoSGfSObr-QfCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830234654776-168larkcn4euflacq9n16dn54qvjcrdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
